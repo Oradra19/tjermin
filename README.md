@@ -1,4 +1,4 @@
-# Nuvora Product Catalog
+# Tjermin Product Catalog
 
 A modern product catalog application built with Next.js App Router. It fetches product data from Fake Store API and includes filtering, search, product detail pages, and a shopping cart that remains available after a browser refresh.
 
@@ -33,8 +33,7 @@ A modern product catalog application built with Next.js App Router. It fetches p
 Make sure Node.js 18.18 or newer is installed.
 
 ```bash
-git clone <repository-url>
-cd fulltime
+git clone [<repository-url>](https://github.com/Oradra19/tjermin.git)
 npm install
 ```
 
@@ -58,7 +57,7 @@ npm run start
 The Hero component reads its image from the `public` directory. Place your preferred image at:
 
 ```text
-public/hero-banner.jpg
+public/hero.webp
 ```
 
 ## API
