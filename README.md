@@ -33,7 +33,7 @@ A modern product catalog application built with Next.js App Router. It fetches p
 Make sure Node.js 18.18 or newer is installed.
 
 ```bash
-git clone [<repository-url>](https://github.com/Oradra19/tjermin.git)
+git clone https://github.com/Oradra19/tjermin.git
 npm install
 ```
 
