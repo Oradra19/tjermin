@@ -34,6 +34,11 @@ Make sure Node.js 18.18 or newer is installed.
 
 ```bash
 git clone https://github.com/Oradra19/tjermin.git
+```
+
+Install dependencies.
+
+```bash
 npm install
 ```
 
@@ -45,12 +50,6 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-To create and run a production build:
-
-```bash
-npm run build
-npm run start
-```
 
 ## Hero Image
 
